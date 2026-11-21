@@ -242,6 +242,6 @@ This project helps demonstrate how Machine Learning can be applied to analyze jo
 
 **Project:** AI Job Salary Prediction
 
-**GitHub:** Your GitHub Profile
+**GitHub:** https://github.com/nagavedasreethota012-lgtm/AI-Job-Salary-Prediction/tree/main
 
 **LinkedIn:** www.linkedin.com/in/naga-vedasree-thota-056388279
